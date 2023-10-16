@@ -1,9 +1,9 @@
-### Hi there 👋
+### Olá 👋
 
 <!--
 **GXCP/GXCP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Me chamo Gustavo, tenho 15 anos, e atualmente sou estudante
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
